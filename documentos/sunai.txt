@@ -1,0 +1,17 @@
+archivo data_plantas_python_1_1.xlsx 
+ suma diaria 46870800
+ el valor maximo y minimo del active energy 
+ maximo : 76978296
+ minimo: 46870800
+ ruta de la imagen: images/data_plantas_python_1_1.xlsx.png
+
+
+ archivo data_plantas_python_2.xlsx 
+ suma diaria 100358904
+ el valor maximo y minimo del active energy 
+ maximo : 112923304
+ minimo: 100358904
+ ruta de la imagen: images/data_plantas_python_2.xlsx.png
+
+
+ 
